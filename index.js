@@ -1,0 +1,1 @@
+// alert('this is clone website of amazon');
